@@ -1,8 +1,8 @@
 #grid { 
     display: grid; 
-    grid-template-columns: repeat(4, 150px); 
-    grid-template-rows: repeat(5, 70px); 
-    gap: 5px; 
+    grid-template-columns: repeat(4, 242.5px); 
+    grid-template-rows: repeat(5, 124px); 
+    gap: 10px; 
 } 
 
 #grid div { 
